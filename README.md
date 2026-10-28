@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rally Up is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://rallyup.com/
+Rally Up provides a powerful digital fundraising platform that enables organizations to create, manage, and promote online fundraising campaigns. The solution offers tools for event ticketing, donation processing, peer-to-peer fundraising, and real-time analytics, helping nonprofits and causes elevate their campaigns and achieve their financial goals through innovative, cloud‑based technology.
+
+**Areas:** Company · Fundraising · Nonprofit · SaaS · DigitalPlatform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rallyup.com/)
+- [Pricing](https://rallyup.com/pricing/)
+- [Support](https://rallyup.com/contact-support/)
+- [Blog](https://rallyup.com/blog/)
+- [Security](https://rallyup.com/security/)
+- [Compliance](https://rallyup.com/security/)
+- [Terms of service](https://rallyup.com/terms-of-use/)
+- [Privacy policy](https://rallyup.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/rallyup/](https://apis.io/providers/rallyup/).
